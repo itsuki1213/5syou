@@ -36,5 +36,6 @@ int main()
 	for (int i = 0; i < size; ++i)
 	{
 		Show(student[i]);
+		cout << "kontya" << endl;
 	}
 }
